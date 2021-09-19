@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "test-87bbb": {
+      "hosting": {
+        "tour-of-heroes": [
+          "test-87bbb"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "test-87bbb"
+  }
+}
